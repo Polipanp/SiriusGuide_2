@@ -1,4 +1,4 @@
-#"Кодик"
+#Кодик
 import networkx as nx
 import matplotlib.pyplot as plt
 
